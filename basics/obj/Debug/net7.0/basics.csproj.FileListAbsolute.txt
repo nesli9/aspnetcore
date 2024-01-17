@@ -6,7 +6,6 @@ D:\SİSTEM-SAKIN-SİLME\Desktop\Codes\Proje\Udemy\ASPNETCore\aspnetcore\basics\b
 D:\SİSTEM-SAKIN-SİLME\Desktop\Codes\Proje\Udemy\ASPNETCore\aspnetcore\basics\bin\Debug\net7.0\basics.runtimeconfig.json
 D:\SİSTEM-SAKIN-SİLME\Desktop\Codes\Proje\Udemy\ASPNETCore\aspnetcore\basics\bin\Debug\net7.0\basics.dll
 D:\SİSTEM-SAKIN-SİLME\Desktop\Codes\Proje\Udemy\ASPNETCore\aspnetcore\basics\bin\Debug\net7.0\basics.pdb
-D:\SİSTEM-SAKIN-SİLME\Desktop\Codes\Proje\Udemy\ASPNETCore\aspnetcore\basics\obj\Debug\net7.0\basics.csproj.AssemblyReference.cache
 D:\SİSTEM-SAKIN-SİLME\Desktop\Codes\Proje\Udemy\ASPNETCore\aspnetcore\basics\obj\Debug\net7.0\basics.GeneratedMSBuildEditorConfig.editorconfig
 D:\SİSTEM-SAKIN-SİLME\Desktop\Codes\Proje\Udemy\ASPNETCore\aspnetcore\basics\obj\Debug\net7.0\basics.AssemblyInfoInputs.cache
 D:\SİSTEM-SAKIN-SİLME\Desktop\Codes\Proje\Udemy\ASPNETCore\aspnetcore\basics\obj\Debug\net7.0\basics.AssemblyInfo.cs
@@ -29,3 +28,4 @@ D:\SİSTEM-SAKIN-SİLME\Desktop\Codes\Proje\Udemy\ASPNETCore\aspnetcore\basics\o
 D:\SİSTEM-SAKIN-SİLME\Desktop\Codes\Proje\Udemy\ASPNETCore\aspnetcore\basics\obj\Debug\net7.0\basics.pdb
 D:\SİSTEM-SAKIN-SİLME\Desktop\Codes\Proje\Udemy\ASPNETCore\aspnetcore\basics\obj\Debug\net7.0\basics.genruntimeconfig.cache
 D:\SİSTEM-SAKIN-SİLME\Desktop\Codes\Proje\Udemy\ASPNETCore\aspnetcore\basics\obj\Debug\net7.0\ref\basics.dll
+D:\SİSTEM-SAKIN-SİLME\Desktop\Codes\Proje\Udemy\ASPNETCore\aspnetcore\basics\obj\Debug\net7.0\basics.sourcelink.json
