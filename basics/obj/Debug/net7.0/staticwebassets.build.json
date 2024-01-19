@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aILB9oMane6Hap4OHCcPl92mdoUJIav8YkJOSArt8Gg=",
+  "Hash": "8l+OrFfoMKtc4rFu2LvWcKZBRQWnGZsouO2klspk2sc=",
   "Source": "basics",
   "BasePath": "_content/basics",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\SİSTEM-SAKIN-SİLME\\Desktop\\Codes\\Proje\\Udemy\\ASPNETCore\\aspnetcore\\basics\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\basics.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\SİSTEM-SAKIN-SİLME\\Desktop\\Codes\\Proje\\Udemy\\ASPNETCore\\aspnetcore\\basics\\wwwroot\\css\\contact.css",
+      "SourceId": "basics",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\SİSTEM-SAKIN-SİLME\\Desktop\\Codes\\Proje\\Udemy\\ASPNETCore\\aspnetcore\\basics\\wwwroot\\",
+      "BasePath": "_content/basics",
+      "RelativePath": "css/contact.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\contact.css"
     },
     {
       "Identity": "D:\\SİSTEM-SAKIN-SİLME\\Desktop\\Codes\\Proje\\Udemy\\ASPNETCore\\aspnetcore\\basics\\wwwroot\\css\\site.css",

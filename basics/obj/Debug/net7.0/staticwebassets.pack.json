@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\basics.bundle.scp.css"
     },
     {
+      "Id": "D:\\SİSTEM-SAKIN-SİLME\\Desktop\\Codes\\Proje\\Udemy\\ASPNETCore\\aspnetcore\\basics\\wwwroot\\css\\contact.css",
+      "PackagePath": "staticwebassets\\css\\contact.css"
+    },
+    {
       "Id": "D:\\SİSTEM-SAKIN-SİLME\\Desktop\\Codes\\Proje\\Udemy\\ASPNETCore\\aspnetcore\\basics\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
