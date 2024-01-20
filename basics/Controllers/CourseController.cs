@@ -4,24 +4,15 @@ using Microsoft.AspNetCore.Mvc;
 namespace basics.Controllers;
 //course
 public class CourseController: Controller {
-    //course/
-    //course/index
-    public IActionResult Index(){
-        var kurs = new Course();
-        kurs.Id = 1;
-        kurs.Title = "Aspnet core kursu";
-        kurs.Description = "güzel bir kurs";
-        kurs.Image = "1.jpg";
-
-        return View(kurs);
-    }
-    public IActionResult Details(){
-        var kurs = new Course();
-        kurs.Id = 1;
-        kurs.Title = "Aspnet core kursu";
-        kurs.Description = "güzel bir kurs";
-        kurs.Image = "1.jpg";
-
+    
+    public IActionResult Details(int? id){
+        
+        if(id == null){ //id değeri girilmemişse kurs listeleri sayfasına yönlendirir.
+            //return Redirect("/course/list");
+            return RedirectToAction("List","Course");
+        }
+        
+        var kurs = Repository.GetById(id);
         return View(kurs);
     }
 

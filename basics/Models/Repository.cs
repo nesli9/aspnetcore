@@ -22,5 +22,9 @@ namespace basics.Models
                 return _courses;
             }
         }
+        public static Course? GetById(int? id){
+            return _courses.FirstOrDefault(c=> c.Id ==id);
+        }
+
     }
 }
